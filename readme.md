@@ -70,7 +70,7 @@ Nu je SQL Server succesvol in Docker hebt gestart, kun je verbinding maken met d
    Start Azure Data Studio na de installatie. Als het voor de eerste keer wordt gestart, kan het zijn dat je enkele basisinstellingen moet configureren, zoals thema en taal.
 
 3. **Verbind met SQL Server**:
-
+![image](https://i.imgur.com/I10UbG4.png)
    In Azure Data Studio kun je nu een nieuwe verbinding maken met de SQL Server die in Docker draait. Volg deze stappen:
 
    a. Klik op "New Connection" (Nieuwe verbinding) in het zijpaneel
@@ -84,7 +84,7 @@ Nu je SQL Server succesvol in Docker hebt gestart, kun je verbinding maken met d
       - **Trust Server Certificate**: true
 
    c. Klik op "Connect" (Verbinden) om verbinding te maken met SQL Server.
-   ![image](https://i.imgur.com/I10UbG4.png)
+   
     
 
 4. **Verkennen van de Database**:
