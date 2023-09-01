@@ -4,9 +4,6 @@ Klik op het compose.yaml bestand hierboven, download dan het bestand (zie afbeel
 
 ![image](https://i.imgur.com/7h1X4Xt.png)
 
-
-Klik vervolgens op de "Download" knop om het bestand op je computer op te slaan.
-
 ### **Stap 2: Installeer Docker Desktop**
 Voordat je SQL Server in Docker kunt uitvoeren, moet je Docker Desktop installeren op je Windows- of macOS-computer. Ga naar de officiële Docker-website en download Docker Desktop voor jouw besturingssysteem:
 
