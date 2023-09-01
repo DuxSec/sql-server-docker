@@ -49,8 +49,6 @@ docker-compose down
 
 #### **Let op:** Zorg ervoor dat je in de map bent waarin het "compose.yaml" bestand zich bevindt voordat je de bovenstaande Docker-opdrachten uitvoert.
 
-Dit zijn de basisstappen om SQL Server in Docker uit te voeren met behulp van jouw "compose.yaml" bestand. Studenten kunnen deze stappen volgen om aan de slag te gaan met SQL Server in een gecontaineriseerde omgeving.
-
 
 
 ###  **Stap 5: Verbinden met SQL Server via Azure Data Studio**
