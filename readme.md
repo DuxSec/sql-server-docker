@@ -2,7 +2,7 @@
 
 Ga naar de volgende GitHub-pagina: [GitHub Repository](https://github.com/DuxSec/sql-server-docker/blob/main/compose.yaml).
 
-![Image Description](https://prnt.sc/LKkdrxy5RRum)
+[Imgur](https://imgur.com/7h1X4Xt)
 
 
 Klik vervolgens op de "Download" knop om het bestand op je computer op te slaan.
