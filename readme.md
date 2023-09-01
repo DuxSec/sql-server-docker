@@ -27,7 +27,7 @@ Gebruik vervolgens de volgende Docker-opdrachten om SQL Server in Docker te behe
 - Om SQL Server op te starten, voer je uit:
 
 ```
-docker-compose up
+docker-compose up -d
 ```
 
 Dit zal SQL Server starten op basis van de configuratie in het "compose.yaml" bestand (je moet dus in de map zitten waar het compose.yaml bestand staat).
