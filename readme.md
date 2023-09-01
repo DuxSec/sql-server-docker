@@ -1,6 +1,6 @@
 **Stap 1: Download het compose.yaml-bestand**
 
-Ga naar de volgende GitHub-pagina: [GitHub Repository](https://github.com/DuxSec/sql-server-docker/blob/main/compose.yaml).
+Klik op het compose.yaml bestand hierboven, download dan het bestand (zie afbeelding)
 
 ![image](https://i.imgur.com/7h1X4Xt.png)
 
