@@ -33,15 +33,15 @@ Gebruik vervolgens de volgende Docker-opdrachten om SQL Server in Docker te behe
 docker-compose up
 ```
 
-Dit zal SQL Server starten op basis van de configuratie in het "compose.yaml" bestand.
+Dit zal SQL Server starten op basis van de configuratie in het "compose.yaml" bestand (je moet dus in de map zitten waar het compose.yaml bestand staat).
 
-- Om SQL Server te stoppen (zonder de containers te verwijderen), voer je uit:
+- Om SQL Server te stoppen (zonder de containers te verwijderen, je behoudt dus de data in je database), voer je uit:
 
 ```
 docker-compose stop
 ```
 
-- Om SQL Server en de bijbehorende containers volledig te verwijderen, voer je uit:
+- Om SQL Server en de bijbehorende containers volledig te verwijderen, voer je uit (al je database data is dan weg):
 
 ```
 docker-compose down
