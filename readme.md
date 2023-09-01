@@ -35,6 +35,10 @@ docker-compose up
 
 Dit zal SQL Server starten op basis van de configuratie in het "compose.yaml" bestand (je moet dus in de map zitten waar het compose.yaml bestand staat).
 
+#### **Let op:** Zorg ervoor dat je in de map bent waarin het "compose.yaml" bestand zich bevindt voordat je de bovenstaande Docker-opdrachten uitvoert.
+
+
+
 - Om SQL Server te stoppen (zonder de containers te verwijderen, je behoudt dus de data in je database), voer je uit:
 
 ```
@@ -47,13 +51,10 @@ docker-compose stop
 docker-compose down
 ```
 
-#### **Let op:** Zorg ervoor dat je in de map bent waarin het "compose.yaml" bestand zich bevindt voordat je de bovenstaande Docker-opdrachten uitvoert.
-
-
 
 ###  **Stap 5: Verbinden met SQL Server via Azure Data Studio**
 
-Nu je SQL Server succesvol in Docker hebt gestart, kun je verbinding maken met de database met behulp van Azure Data Studio, een krachtige tool voor databaseontwikkeling en -beheer. Hier is hoe je dat kunt doen:
+Nu je SQL Server succesvol in Docker hebt gestart, kun je verbinding maken met de database met behulp van Azure Data Studio.
 
 1. **Download en Installeer Azure Data Studio**:
 
