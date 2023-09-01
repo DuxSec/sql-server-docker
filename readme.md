@@ -77,11 +77,11 @@ Nu je SQL Server succesvol in Docker hebt gestart, kun je verbinding maken met d
 
    b. Vul de volgende informatie in:
 
-      - **Server**: localhost
-      - **Authentication Type**: SQL Login
-      - **Username**: sa
-      - **Password**: Grasmaaier99!
-      - **Trust Server Certificate**: true
+      - **Server**: `localhost`
+      - **Authentication Type**: `SQL Login`
+      - **Username**: `sa`
+      - **Password**: `Grasmaaier99!`
+      - **Trust Server Certificate**: `true`
 
    c. Klik op "Connect" (Verbinden) om verbinding te maken met SQL Server.
    
